@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Elham Ibrahim 👋
 
-<!--
-**Elham-97/Elham-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Management Student
 
-Here are some ideas to get you started:
+💻 Aspiring Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
+* MERN Stack
+
+🚀 Projects:
+
+* Personal Portfolio Website
+* Hifz Tracker (In Progress)
+* Internship Management System (Planned)
+
+📫 Contact:
+
+* Email: [eeluktir@gmail.com](mailto:eeluktir@gmail.com)
+* Portfolio: https://elham-97.github.io/personal-portfolio/
+
+⚡ Goal:
+To build impactful technology solutions while growing as a software engineer and leader.
